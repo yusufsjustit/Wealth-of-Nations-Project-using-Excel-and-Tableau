@@ -7,7 +7,6 @@ Welcome to my *Wealth of Nations* data analysis project! In this project, I expl
 I created **4 visuals** specifically for the **top 20 countries**, ensuring the dashboard met **colour-blind accessibility** requirements. This project demonstrates how raw data can be turned into actionable insights! 👨‍💻📊
 
 
-
 ---
 
 ## 🛠 Tools & Technologies
@@ -50,5 +49,4 @@ I created **4 visuals** specifically for the **top 20 countries**, ensuring the 
 
 Through this project, I demonstrated my ability to transform raw data into valuable insights using **Excel** and **Tableau**. With an emphasis on accessibility, this project highlights my expertise in creating dashboards that are not only insightful but also user-friendly for all audiences, including those with colour blindness.
 
-### 🌟 Ready to explore the data? Check out my [Tableau Dashboard](https://www.example.com/tableau-link)  
-*Replace this link with the actual link to your Tableau dashboard.*
+### 🌟 Ready to explore the data? Check out my [Tableau Dashboard](https://public.tableau.com/views/WealthofNationsDashboard_16825854613080/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
