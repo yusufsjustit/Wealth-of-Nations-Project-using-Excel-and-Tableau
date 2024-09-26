@@ -50,3 +50,5 @@ I created **4 visuals** specifically for the **top 20 countries**, ensuring the 
 Through this project, I demonstrated my ability to transform raw data into valuable insights using **Excel** and **Tableau**. With an emphasis on accessibility, this project highlights my expertise in creating dashboards that are not only insightful but also user-friendly for all audiences, including those with colour blindness.
 
 ### 🌟 Ready to explore the data? Check out my [Tableau Dashboard](https://public.tableau.com/views/WealthofNationsDashboard_16825854613080/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+
+![Dashboard 1](https://github.com/user-attachments/assets/1639a015-d0f4-47cf-9c54-aeb21b4d60eb)
